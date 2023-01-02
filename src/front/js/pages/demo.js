@@ -28,6 +28,7 @@ export const Demo = () => {
 							<button className="btn btn-success" onClick={() => actions.changeColor(index, "orange")}>
 								Change Color
 							</button>
+							<button>Ves esto, David?</button>
 						</li>
 					);
 				})}
